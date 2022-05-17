@@ -7,11 +7,11 @@
 
 This repository contains deliverable D7.5 of the research project [PrePare Ships](https://prepare-ships.eu/).
 
-Author(s): Fredrik Olsson
+Author(s): Fredrik Olsson (RISE)
 
-Reviewer(s): Luis Sanchez-Heres, Joakim Lundman
+Reviewer(s): Luis Sanchez-Heres (RISE), Joakim Lundman (RISE)
 
-The headlines below follows the expected template for the Open Research Data Pilot's Data Management Plan (https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf).
+The headlines below follow the expected template for the Open Research Data Pilot's [Data Management Plan](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf).
 
 
 ## 1. Data Summary
@@ -45,11 +45,11 @@ The datasets are timeseries and, as such, the time parameter is the unique ident
 The datasets are versioned through the inclusion of [`tags`](https://git-scm.com/docs/git-tag) in the repository adhering to the concept of [semantic versioning](https://semver.org/).
 
 
-### 2.2 Making data openly accesible
+### 2.2 Making data openly accessible
 All data part of this repository is openly available. It is made available as a git repository hosted on the well known development collaboration platform Github. The data may be accessed either directly through a browser or through any git client of choice.
 
 ### 2.3 Making data interoperable
-The datasets are stored in clear text using well-known and standardized formats (csv and JSON) making them, in essence, interoperable with most existing programming languages.
+The datasets are stored in clear text using well-known and standardized formats (csv and JSON) making them interoperable with most existing programming languages of today.
 
 ### 2.4 Increase data re-use (through clarifying licences)
 All data part of this repository is made available under the [Apache 2.0 license](./LICENSE)
